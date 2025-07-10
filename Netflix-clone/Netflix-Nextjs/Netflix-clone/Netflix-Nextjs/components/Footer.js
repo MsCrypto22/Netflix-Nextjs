@@ -104,7 +104,10 @@ function Footer() {
         </div>
       </div>
     </div>
-
+    <div className="text-center p-6 bg-black">
+      <span>© 2021 Copyright:</span>
+      <a className="text-[#6d6d6d] font-semibold" href="https://pawan67.vercel.app/">@pawan67</a>
+    </div>
   </footer></div>
   )
 }

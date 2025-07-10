@@ -6,7 +6,7 @@ Netflix clone built with Next.js and TailwindCSS for the frontend and Firebase f
 
 ## Demo
 
-![Demo](https://piawan67.vercel.app/projects/netflix.jpg)
+![Demo](https://pawan67.vercel.app/projects/netflix.jpg)
 
 Live link : https://netflix-clone-p67.vercel.app/
 
